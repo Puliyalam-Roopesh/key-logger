@@ -48,8 +48,7 @@ Implement functionality to stop logging (e.g., by pressing the "Esc" key).
 Run the script in a virtual machine to avoid affecting your main system.
 
 
-⚠️ Important Ethical Considerations
-While building a keylogger can be educational, it's crucial to adhere to ethical guidelines:
+
 
 Obtain Consent: Only test keyloggers on systems you own or have explicit permission to use.
 
