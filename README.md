@@ -48,10 +48,3 @@ Implement functionality to stop logging (e.g., by pressing the "Esc" key).
 Run the script in a virtual machine to avoid affecting your main system.
 
 
-
-
-Obtain Consent: Only test keyloggers on systems you own or have explicit permission to use.
-
-Use for Educational Purposes: Focus on learning and improving security measures, not on exploiting others.
-
-Comply with Laws: Ensure your activities align with local laws and regulations regarding privacy and cybersecurity.
